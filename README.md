@@ -1,29 +1,40 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed</h1>
-<h3 align="center">A passionate Web Developer & Tech Learner from Egypt 🇪🇬</h3>
+<h3 align="center">Computer Science Student | AI & Data Science Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;AI+Enthusiast;Software+Engineering+Student;Data+Science+Learner;Robotics+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Artificial+Intelligence+Student;Data+Science+Enthusiast;Computer+Vision+Developer;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👀 Interested in **Web Development, AI, Data Science & Robotics**
-- 🌱 Currently learning:
-  - Artificial Intelligence (AI)
-  - Software Engineering
-  - Data Science
-  - Robotics
-- 🤝 Looking to collaborate with **Mawaheb Academy**
-- ⚡ Always curious about new technologies and building cool projects
+🎓 Computer Science student specializing in **Artificial Intelligence** and **Data Science** with hands-on experience in building real-world intelligent systems.
+
+🛠️ Currently developing a **low-cost AI-based cable defect detection system** using:
+- Computer Vision
+- Multispectral Imaging
+- Sensor Integration
+
+💡 Passionate about applying AI to solve real-world problems and continuously improving technical, development, and research skills.
+
+---
+
+## 🧠 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Data Science
+- Robotics
+- Web Development
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -49,5 +60,5 @@
 ---
 
 <p align="center">
-  💻 “Code. Learn. Build. Repeat.” 🚀
+  🚀 Building intelligent systems for real-world impact
 </p>
